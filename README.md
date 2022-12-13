@@ -2,9 +2,9 @@
    About me
 🎓 I’m currently student at Hacettepe Universty 
 
-🌱 I’m currently learning Java, Javascript,Solidity and Data Science i also now pyhton, sql
+🌱 I’m currently learning Java, Javascript,Solidity and Data Science. I also know pyhton and sql
 
-🤔 I’m looking for help with Solidity
+
 
 📫 How to reach me: [mail](hudakocabiyik1@gmail.com),[instagram](https://instagram.com/hudakocabiyik)
 
