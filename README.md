@@ -1,13 +1,12 @@
 ### Hi ,I'm Huda 👋
-   ### About me
-    🎓 I’m currently student at Hacettepe Universty 
+   About me
+🎓 I’m currently student at Hacettepe Universty 
 
-    🌱 I’m currently learning Java, Javascript,Solidity and Data Science
+🌱 I’m currently learning Java, Javascript,Solidity and Data Science
 
-    🤔 I’m looking for help with Solidity
+🤔 I’m looking for help with Solidity
 
-    📫 How to reach me:
-     hudakocabiyik1@gmail.com     
+📫 How to reach me: [mail](hudakocabiyik1@gmail.com),[instagram](https://instagram.com/hudakocabiyik)
 
 <!--
 ![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/hudakocabiyik/)
