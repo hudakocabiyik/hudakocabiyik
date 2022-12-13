@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi ,I'm Huda 👋
 
+🌱 I’m currently learning Java, Javascript,Solidity 
+
+🤔 I’m looking for help with Solidity
+
+📫 How to reach me: hudakocabiyik1@gmail.com
 <!--
 **hudakocabiyik/hudakocabiyik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
