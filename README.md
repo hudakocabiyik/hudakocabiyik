@@ -2,7 +2,7 @@
    About me
 🎓 I’m currently student at Hacettepe Universty 
 
-🌱 I’m currently learning Java, Javascript,Solidity and Data Science
+🌱 I’m currently learning Java, Javascript,Solidity and Data Science i also now pyhton, sql
 
 🤔 I’m looking for help with Solidity
 
