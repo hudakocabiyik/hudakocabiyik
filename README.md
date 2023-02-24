@@ -3,7 +3,7 @@
 
    🎓 I’m currently student at Hacettepe Universty 
 
-   🌱 I’m currently learning Java, Javascript,Solidity and Data Science. I also know pyhton and sql
+   🌱 I’m currently learning Java, Javascript,Solidity . I also know pyhton and sql
    
    📫 How to reach me: [mail](hudakocabiyik1@gmail.com),[instagram](https://instagram.com/hudakocabiyik)
 
