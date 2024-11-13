@@ -1,7 +1,4 @@
 ### Hi ,I'm Huda 👋
-   About me
-
-  
    
    📫 How to reach me: [mail](hudakocabiyik1@gmail.com),[instagram](https://instagram.com/hudakocabiyik)
    
